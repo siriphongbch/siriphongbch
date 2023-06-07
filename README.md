@@ -15,4 +15,5 @@ I am a first year computer engineering student. and is a FULL Stack Developer an
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siriphongbch&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siriphongbch&show_icons=true&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siriphongbch&hide_progress=true&theme=highcontrast)
