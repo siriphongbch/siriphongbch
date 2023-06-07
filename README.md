@@ -5,7 +5,7 @@
 
 I am a first year computer engineering student. and is a FULL Stack Developer and Junior software engineer from Thailand. I am learning English for GRE IELES and Toeic. Interested in pursuing a master's degree in software engineering at MIT My gols is to oawork at Google as a software engineer.
 
----
+--
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
