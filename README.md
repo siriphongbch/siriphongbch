@@ -14,4 +14,10 @@ I am a first year computer engineering student. and is a FULL Stack Developer an
 
 ---
 
-<a href="https://github.com/https://github.com/siriphongbch/siriphongbch/blob/main/README.md" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/siriphongbch/siriphongbch/blob/main/README.md&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishavchanda&&theme=xcode)](https://github.com/rishavchanda)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
