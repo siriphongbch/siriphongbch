@@ -6,7 +6,7 @@
 I am a first year computer engineering student. and is a FULL Stack Developer and Junior software engineer from Thailand. I have web and app experience in e-commerce, social media and fintech. I am learning English for GRE IELES and Toeic. My gols is to oawork at Google as a software engineer.
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/siriphong.bch) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/home?lang=th) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/home?lang=th) 
 [![linkedin](https://img.shields.io/badge/linkedin-%231DA1F2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siriphong-bunchuea-1894a927a/) 
 [![facebook](https://img.shields.io/badge/facebook-%231DA1F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100093593491576)
 
