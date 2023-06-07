@@ -7,8 +7,8 @@ I am a first year computer engineering student. and is a FULL Stack Developer an
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/siriphong.bch) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/home?lang=th) 
-[![linkedin](https://img.shields.io/badge/linkedin-%231DA1F2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siriphong-bunchuea-1894a927a/) 
-[![facebook](https://img.shields.io/badge/facebook-%231DA1F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100093593491576)
+[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siriphong-bunchuea-1894a927a/) 
+[![facebook](https://img.shields.io/badge/facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100093593491576)
 
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
