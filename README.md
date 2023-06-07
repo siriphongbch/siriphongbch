@@ -14,6 +14,4 @@ I am a first year computer engineering student. and is a FULL Stack Developer an
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api[(https://github.com/siriphongbch))](https://github.com/anuraghazra/github-readme-stats)
-]
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api[(https://github.com/siriphongbch)]
