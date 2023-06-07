@@ -1,1 +1,1 @@
-![image](https://www.eetasia.com/wp-content/uploads/sites/2/2020/10/Annotation-2020-10-13-141939.jpg)
+![image](https://github.com/siriphongbch/siriphongbch/assets/135735797/760e68b3-1cec-4f83-9f71-ca816a2508ce)
