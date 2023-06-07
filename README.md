@@ -1,6 +1,7 @@
 # 🧑‍💻Siriphong bunchuea
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+<span style="color: blue">Digital Craftsman (Full-stack developer\Junior software engineer\Mobile application)</span>
+
 
 I am a first year computer engineering student. and is a FULL Stack Developer and Junior software engineer from Thailand. I am learning English for GRE IELES and Toeic. Interested in pursuing a master's degree in software engineering at MIT My gols is to oawork at Google as a software engineer.
 
