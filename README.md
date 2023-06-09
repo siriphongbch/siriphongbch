@@ -16,9 +16,13 @@ I am a first year computer engineering student. and is a FULL Stack Developer an
 
 ---
 
-<img align="left" wigth="40%" src="https://github-readme-stats.vercel.app/api?username=siriphongbch&show_icons=true&theme=city_lihgt"/>
-<img align="left" wigth="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siriphongbch&hide_progress=true&theme=city_lihgt"/>
-<img align="left" wigth="40%" src="https://github-readme-stats.vercel.app/api?username=siriphongbch&show_icons=true&theme=city_lihgt"/>
-<img align="left" wigth="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siriphongbch&hide_progress=true&theme=city_lihgt"/>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siriphongbch&show_icons=true&locale=en&layout=compact" alt="siriphongbch" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siriphongbch&show_icons=true&locale=en" alt="siriphongbch" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siriphongbch&" alt="siriphongbch" /></p>
+
+
 
 
