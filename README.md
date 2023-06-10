@@ -3,7 +3,7 @@
 **`(Full-stack Developer\Junior software engineer\Mobile application)`**
 
 
-I am a first year computer engineering student. and is a FULL Stack Developer and Junior software engineer from Thailand. I have web and app experience in e-commerce, social media and fintech. I am learning English for GRE IELES and Toeic. My gols is to oawork at Google as a software engineer.
+I am a first year computer engineering student. and is a FULL Stack Developer and Junior software engineer from Thailand. My gols is to oawork at Google as a software engineer.
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/siriphong.bch) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/home?lang=th) 
@@ -12,10 +12,7 @@ I am a first year computer engineering student. and is a FULL Stack Developer an
 
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
-
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-
-
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
