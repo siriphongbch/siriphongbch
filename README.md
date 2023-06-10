@@ -1,6 +1,6 @@
 # 🧑‍💻Siriphong bunchuea
 
-**`(Full-stack Developer\Junior software engineer\Mobile application)`**
+***`(Full-stack Developer\Junior software engineer\)`***
 
 
 I am a first year computer engineering student. and is a FULL Stack Developer and Junior software engineer from Thailand. My gols is to oawork at Google as a software engineer.
